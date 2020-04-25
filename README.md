@@ -9,7 +9,10 @@ From [_Performance Comparison of Six Algorithms for Page Segmentation_](https://
 [wiki](https://en.wikipedia.org/wiki/Document_layout_analysis#Example_of_a_bottom_up_approach)
 
 # Results
-## 0. Open pdf document, extract words and preprocess
+## 0.0 Open pdf document
+![raw](images/raw_v1.png)
+
+## 0.1 Extract words and preprocess
 ![words](images/words_v1.png)
 
 ## 1. Estimate within-line and between-line spacing
