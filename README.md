@@ -1,9 +1,9 @@
 A simplified step-by-step implementation of the Docstrum algorithm for pdf documents
 
-### How to run C# code in Jupyter Lab
+### How to run C# code in Jupyter Lab / How Install .NET Interactive
 https://devblogs.microsoft.com/cesardelatorre/using-ml-net-in-jupyter-notebooks/
 
-https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/ (if the previous fails)
+https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/ (if the previous fails when installing)
 
 # Description
 Version 2 is the latest update and handles rotated words/lines/paragraphs. This is the version implemenented in PdfPig.
