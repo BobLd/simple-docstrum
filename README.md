@@ -1,4 +1,4 @@
-A simplified step-by-step implementation of the Docstrum algorithm for pdf documents
+A step-by-step implementation of the Docstrum algorithm for pdf documents
 
 ### How to run C# code in Jupyter Lab / How Install .NET Interactive
 https://devblogs.microsoft.com/cesardelatorre/using-ml-net-in-jupyter-notebooks/
